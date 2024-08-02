@@ -14,5 +14,5 @@ Switch PHP Version with Alias Command
     brew install shivammathur/php/php@8.1
     brew install shivammathur/php/php@8.2
 
-##　php（使用したいバージョン）で切り替え可能
+## php（使用したいバージョン）で切り替え可能
     php8.1
