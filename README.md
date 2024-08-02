@@ -16,3 +16,11 @@ Switch PHP Version with Alias Command
 
 ## php（使用したいバージョン）で切り替え可能
     php8.1
+
+## 追記　クソ便利なのが既にあった
+ 　　　　curl -L https://raw.githubusercontent.com/rhukster/sphp.sh/main/sphp.sh > /opt/homebrew/bin/sphp
+　　　　
+　　　　chmod +x /opt/homebrew/bin/sphp
+
+
+　　　　sphp 8.1
